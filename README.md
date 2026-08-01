@@ -39,7 +39,7 @@
 <a href="mailto:chizhang2048@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://instagram.com/zcccofield"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-<br /><br />
+<br />
 
 <sub>Based in San Jose · Always up for a coffee chat ☕</sub>
 
